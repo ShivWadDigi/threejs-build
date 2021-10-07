@@ -1,0 +1,25 @@
+body {
+  margin: 0px;
+  height: 100vh;
+ }
+ #c {
+  width: 1000px;
+  height: 800px;
+  padding: 0px;
+  position:  static; 
+  /* top: 100px;
+  left: 100px; */
+}
+
+#shape {
+  position: fixed;
+  left: 1100px;
+}
+
+#myRange {
+  position: fixed;
+  left: 1200px;
+
+}
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */
